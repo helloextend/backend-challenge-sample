@@ -17,5 +17,5 @@ Sample backend challenge template
 6. Install yarn if not already installed: `npm install -g yarn`
 7. Check node and yarn versions: `node --version` and `yarn --version`
 8. Install depdendencies: `yarn`
-9. Execute hello-world file: `yarn hello` in terminal. You should see a 'Hello, world!' message printed.
+9. Execute hello-world file: `yarn hello` in terminal. You should see a `'Hello, world!'` message printed.
 10. Execute test: `yarn test`. You should see all tests passing.

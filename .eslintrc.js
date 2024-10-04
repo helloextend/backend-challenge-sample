@@ -24,11 +24,8 @@ module.exports = {
   ],
   ignorePatterns: [
     'dist',
-    'cypress/**/*.js',
-    'cypress/**/*.ts',
     'node_modules',
-    '**/*.d.ts',
-    '**/specs/**/index.ts',
+    '**/*.d.ts'
   ],
   settings: {
     'import/resolver': {
