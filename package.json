@@ -28,5 +28,6 @@
   },
   "keywords": [],
   "author": "Extend",
-  "license": "ISC"
+  "license": "ISC",
+  "packageManager": "pnpm@10.30.3"
 }
